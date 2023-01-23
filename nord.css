@@ -3,15 +3,15 @@
 :root {
 	--bg:		#ffffff;
 	--fg:		#000000;
-	--title:	#B48EAD;
-	--hl:		#5E81AC;
-	--black:	#2E3440;
-	--red:		#BF616A;
-	--green:	#A3BE8C;
-	--yellow:	#EBCB8B;
-	--blue:		#81A1C1;
+	--title:	#750a61;
+	--hl:		#750a61;
+	--black:	#000000;
+	--red:		#ea0517;
+	--green:	#03e020;
+	--yellow:	#f7f20b;
+	--blue:		#0d0490;
 	--magenta:	#B48EAD;
-	--cyan:		#88C0D0;
+	--cyan:		#06b2fc;
 }
 
 body { background-image: url("img/WallpaperWhite.png");
