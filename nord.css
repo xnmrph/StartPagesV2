@@ -1,8 +1,8 @@
 @import url("index.css");
 
 :root {
-	--bg:		#3B4252;
-	--fg:		#D8DEE9;
+	--bg:		#ffffff;
+	--fg:		#000000;
 	--title:	#B48EAD;
 	--hl:		#5E81AC;
 	--black:	#2E3440;
@@ -14,5 +14,5 @@
 	--cyan:		#88C0D0;
 }
 
-body { background-image: url("img/ign_chainsaw-man.png");
+body { background-image: url("img/WallpaperWhite.png");
 background-size: 100% auto; }
